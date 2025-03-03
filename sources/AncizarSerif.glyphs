@@ -140475,7 +140475,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Universidad Nacional de Colombia, Unidad de Medios de Comunicación (Unimedios), 2012-2019. Todos los derechos reservados. Ancizar es una marca registrada de la Universidad Nacional de Colombia. La copia o modificacion no autorizadas de este archivo de fuente es ilegal.";
+value = "Copyright 2012 The Ancizar Serif Project Authors (https://github.com/UNAL-OMD/UNAL-Ancizar)";
 }
 );
 },
@@ -140487,6 +140487,19 @@ language = dflt;
 value = "Cesar Puertas, Viviana Monsalve, Julian Moncada, Julian Prieto, Jose Castro, Felipe Aragon, Mariel Hernandez, Sara Alarcon, Raul Aponte";
 }
 );
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
 }
 );
 settings = {
