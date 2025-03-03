@@ -106,7 +106,6 @@ value = (
 {
 name = fsType;
 value = (
-3
 );
 },
 {
@@ -145,6 +144,10 @@ pos = -250;
 size = 0;
 }
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2023-08-22 15:15:54 +0000";
@@ -446,6 +449,38 @@ customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = hheaAscender;
+value = 900;
+},
+{
+name = hheaDescender;
+value = -300;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 900;
+},
+{
+name = typoDescender;
+value = -300;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 851;
+},
+{
+name = winDescent;
+value = 271;
 }
 );
 id = m001;
@@ -542,6 +577,38 @@ customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = hheaAscender;
+value = 900;
+},
+{
+name = hheaDescender;
+value = -300;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 900;
+},
+{
+name = typoDescender;
+value = -300;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 851;
+},
+{
+name = winDescent;
+value = 271;
 }
 );
 id = "52319A01-0C76-4F01-98F2-7849B20FD9E6";
