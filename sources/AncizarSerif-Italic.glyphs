@@ -136599,8 +136599,8 @@ instanceInterpolations = {
 m001 = 0.375;
 };
 isItalic = 1;
-linkStyle = Semibold;
-name = "Semibold Italic";
+linkStyle = SemiBold;
+name = "SemiBold Italic";
 weightClass = 600;
 },
 {
@@ -136632,8 +136632,8 @@ instanceInterpolations = {
 m001 = 0.812;
 };
 isItalic = 1;
-linkStyle = Extrabold;
-name = "Extrabold Italic";
+linkStyle = ExtraBold;
+name = "ExtraBold Italic";
 weightClass = 800;
 },
 {

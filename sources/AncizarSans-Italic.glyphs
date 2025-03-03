@@ -118647,7 +118647,7 @@ instanceInterpolations = {
 m001 = 0.603;
 };
 isItalic = 1;
-linkStyle = Semibold;
+linkStyle = SemiBold;
 name = "SemiBold Italic";
 weightClass = 600;
 },
@@ -118680,7 +118680,7 @@ instanceInterpolations = {
 m001 = 0.284;
 };
 isItalic = 1;
-linkStyle = Extrabold;
+linkStyle = ExtraBold;
 name = "ExtraBold Italic";
 weightClass = 800;
 },
@@ -118705,7 +118705,7 @@ instanceInterpolations = {
 "52319A01-0C76-4F01-98F2-7849B20FD9E6" = 1;
 };
 isItalic = 1;
-linkStyle = Extrablack;
+linkStyle = ExtraBlack;
 name = "ExtraBlack Italic";
 weightClass = 1000;
 }
