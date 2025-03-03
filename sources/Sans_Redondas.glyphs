@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3343";
 .formatVersion = 3;
 axes = (
 {
@@ -129,14 +129,14 @@ size = 10;
 },
 {
 pos = 0;
-size = "-10";
+size = -10;
 },
 {
-pos = "-215";
-size = "-10";
+pos = -215;
+size = -10;
 },
 {
-pos = "-250";
+pos = -250;
 size = 0;
 }
 );
@@ -117320,12 +117320,6 @@ width = 224;
 );
 instances = (
 {
-axesValues = (
-0
-);
-instanceInterpolations = {
-"44B34E6E-EF7D-473C-A718-23DCC9FE612C" = 1;
-};
 name = Regular;
 type = variable;
 },
@@ -117426,7 +117420,7 @@ instanceInterpolations = {
 m001 = 1;
 };
 name = Extrablack;
-weightClass = 900;
+weightClass = 1000;
 }
 );
 kerningLTR = {

@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3343";
 .formatVersion = 3;
 axes = (
 {
@@ -129,14 +129,14 @@ size = 10;
 },
 {
 pos = 0;
-size = "-10";
+size = -10;
 },
 {
-pos = "-215";
-size = "-10";
+pos = -215;
+size = -10;
 },
 {
-pos = "-250";
+pos = -250;
 size = 0;
 }
 );
@@ -19572,7 +19572,7 @@ unicode = 666;
 {
 color = 3;
 glyphname = eopenreversed;
-lastChange = "2024-02-12 16:49:31 +0000";
+lastChange = "2025-03-03 15:31:03 +0000";
 layers = (
 {
 anchors = (
@@ -19730,6 +19730,7 @@ layerId = "68AF751A-A1DE-4E72-971B-2B214B2F874D";
 name = "17 de oct. de 23, 11:25";
 shapes = (
 {
+alignment = -1;
 ref = epsilon;
 }
 );
@@ -118498,12 +118499,6 @@ width = 258;
 );
 instances = (
 {
-axesValues = (
-0
-);
-instanceInterpolations = {
-m001 = 1;
-};
 name = Italic;
 type = variable;
 },
@@ -118619,7 +118614,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Extrablack;
 name = "Extrablack Italic";
-weightClass = 900;
+weightClass = 1000;
 }
 );
 kerningLTR = {
