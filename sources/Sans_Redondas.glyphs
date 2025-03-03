@@ -117368,7 +117368,7 @@ instanceInterpolations = {
 "44B34E6E-EF7D-473C-A718-23DCC9FE612C" = 0.603;
 m001 = 0.397;
 };
-name = Semibold;
+name = SemiBold;
 weightClass = 600;
 },
 {
@@ -117398,7 +117398,7 @@ instanceInterpolations = {
 "44B34E6E-EF7D-473C-A718-23DCC9FE612C" = 0.284;
 m001 = 0.716;
 };
-name = Extrabold;
+name = ExtraBold;
 weightClass = 800;
 },
 {
@@ -117419,7 +117419,7 @@ axesValues = (
 instanceInterpolations = {
 m001 = 1;
 };
-name = Extrablack;
+name = ExtraBlack;
 weightClass = 1000;
 }
 );

@@ -118555,7 +118555,7 @@ m001 = 0.603;
 };
 isItalic = 1;
 linkStyle = Semibold;
-name = "Semibold Italic";
+name = "SemiBold Italic";
 weightClass = 600;
 },
 {
@@ -118588,7 +118588,7 @@ m001 = 0.284;
 };
 isItalic = 1;
 linkStyle = Extrabold;
-name = "Extrabold Italic";
+name = "ExtraBold Italic";
 weightClass = 800;
 },
 {
@@ -118613,7 +118613,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = Extrablack;
-name = "Extrablack Italic";
+name = "ExtraBlack Italic";
 weightClass = 1000;
 }
 );
