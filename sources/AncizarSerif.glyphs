@@ -2,7 +2,7 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-"◌"
+"₌"
 );
 axes = (
 {
@@ -121353,7 +121353,7 @@ unicode = 8241;
 {
 color = 4;
 glyphname = equal.inferior;
-lastChange = "2024-02-12 15:02:33 +0000";
+lastChange = "2025-03-04 12:24:38 +0000";
 layers = (
 {
 layerId = m001;
@@ -121401,19 +121401,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(297,-32,l),
-(297,-5,l),
-(64,-5,l),
-(64,-32,l)
+(297,44,l),
+(297,69,l),
+(64,69,l),
+(64,44,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(297,44,l),
-(297,69,l),
-(64,69,l),
-(64,44,l)
+(297,-32,l),
+(297,-5,l),
+(64,-5,l),
+(64,-32,l)
 );
 }
 );

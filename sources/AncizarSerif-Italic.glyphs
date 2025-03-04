@@ -2,7 +2,7 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-"◌"
+"ₔ"
 );
 axes = (
 {
@@ -75222,7 +75222,7 @@ unicode = 8338;
 {
 color = 4;
 glyphname = schwa.inferior;
-lastChange = "2024-02-12 15:03:03 +0000";
+lastChange = "2025-03-04 12:25:21 +0000";
 layers = (
 {
 layerId = m001;
@@ -75323,6 +75323,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(73,-112,o),
+(59,-93,o),
+(59,-66,cs),
 (60,-33,o),
 (85,-3,o),
 (140,3,c),
@@ -75331,10 +75334,7 @@ nodes = (
 (106,-108,cs),
 (103,-111,o),
 (98,-112,o),
-(93,-112,cs),
-(73,-112,o),
-(59,-93,o),
-(59,-66,cs)
+(93,-112,cs)
 );
 }
 );

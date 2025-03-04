@@ -2,7 +2,7 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-"◌"
+"∑"
 );
 axes = (
 {
@@ -100326,7 +100326,7 @@ unicode = 8719;
 {
 color = 4;
 glyphname = summation;
-lastChange = "2023-11-01 21:20:58 +0000";
+lastChange = "2025-03-04 12:19:03 +0000";
 layers = (
 {
 layerId = m001;
@@ -100334,7 +100334,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(119,-220,l),
 (615,-220,l),
 (634,-52,l),
 (316,-52,l),
@@ -100345,7 +100344,8 @@ nodes = (
 (123,693,l),
 (88,580,l),
 (296,242,l),
-(77,-103,l)
+(77,-103,l),
+(119,-220,l)
 );
 }
 );
