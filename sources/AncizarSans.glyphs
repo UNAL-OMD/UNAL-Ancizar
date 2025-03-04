@@ -1,6 +1,9 @@
 {
 .appVersion = "3343";
 .formatVersion = 3;
+DisplayStrings = (
+"◌"
+);
 axes = (
 {
 name = Weight;
@@ -102595,9 +102598,27 @@ source = equal;
 {
 color = 3;
 glyphname = dottedCircle;
-lastChange = "2024-02-13 15:46:53 +0000";
+lastChange = "2025-03-04 12:14:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (225,0);
+},
+{
+name = center;
+pos = (223,225);
+},
+{
+name = ogonek;
+pos = (373,0);
+},
+{
+name = top;
+pos = (223,451);
+}
+);
 layerId = "44B34E6E-EF7D-473C-A718-23DCC9FE612C";
 shapes = (
 {
@@ -102892,6 +102913,24 @@ com.hugojourdan.ColorFlow = {
 width = 450;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (225,0);
+},
+{
+name = center;
+pos = (223,225);
+},
+{
+name = ogonek;
+pos = (373,0);
+},
+{
+name = top;
+pos = (223,451);
+}
+);
 layerId = m001;
 shapes = (
 {
