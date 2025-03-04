@@ -1,0 +1,9 @@
+sources:
+  - AncizarSans.glyphs
+  - AncizarSans-Italic.glyphs
+buildVariable: true
+buildStatic: true
+buildTTF: false
+buildOTF: false
+buildWebfont: false
+buildSmallCap: false
