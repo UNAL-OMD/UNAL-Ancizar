@@ -11,3 +11,11 @@ Naturally diverse, the UNAL Ancízar type family is designed for daily use in al
 The UNAL Ancízar type family is divided into two groups: Serif and Sans Serif, enhancing its versatility and adaptability to various applications. The Serif fonts are designed for long texts, such as essays and articles, while the Sans Serif variants excel in signage and headlines, ensuring optimal performance in shorter texts. Its robust typographic repertoire—including diacritics, small caps, and uppercase and lowercase numerals—ensures broad functionality.
 
 With nine weights, Ancízar offers a diverse range of styles, making it easier to select the right variant for each context. Its extensive character set (1,043 per font) supports Western Latin, monotonic Greek, and the International Phonetic Alphabet (IPA). Beyond meeting institutional requirements, this typographic richness allows the university community to explore and express its creativity with greater freedom.
+
+# Principal Designers
+
+César Puertas, Viviana Monsalve, Julián Moncada
+
+# Contributors
+
+Since 2014, several individuals have played a key role in the development and refinement of this type family. We extend our gratitude to Julián Prieto Velandia, José Castro Garnica, Mariel Hernández Camino, Felipe Aragón Rubio, Sara Alarcón Quinche, Raúl Aponte, Jhon García and to the Digital Media Office (Martha Lucía Chaves Muñoz, María Teresa Naranjo Castillo, Giovanni Romero Pérez, Alejandro Díaz Vecchio and Aldemar Hernández Torres) for their valuable contributions.
