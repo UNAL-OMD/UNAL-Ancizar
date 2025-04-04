@@ -121966,7 +121966,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2012 The Ancizar Sans Project Authors (https://github.com/UNAL-OMD/UNAL-Ancizar)";
+value = "Copyright 2014 The Ancizar Sans Project Authors (https://github.com/UNAL-OMD/UNAL-Ancizar)";
 }
 );
 },
