@@ -1,10 +1,6 @@
 {
 .appVersion = "3343";
 .formatVersion = 3;
-DisplayStrings = (
-"∑",
-"ę"
-);
 axes = (
 {
 name = Weight;
@@ -11462,7 +11458,7 @@ unicode = 362;
 color = 4;
 glyphname = Uogonek;
 kernRight = KO_U;
-lastChange = "2023-10-12 05:40:06 +0000";
+lastChange = "2025-04-16 13:48:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -11473,7 +11469,7 @@ ref = U;
 },
 {
 alignment = -1;
-pos = (185,20);
+pos = (175,20);
 ref = ogonek.case;
 }
 );
@@ -31420,7 +31416,7 @@ unicode = 242;
 {
 color = 4;
 glyphname = ohungarumlaut;
-lastChange = "2023-09-08 16:00:25 +0000";
+lastChange = "2025-04-16 13:49:14 +0000";
 layers = (
 {
 layerId = m001;
@@ -31462,7 +31458,7 @@ ref = o;
 },
 {
 alignment = -1;
-pos = (23,0);
+pos = (86,0);
 ref = hungarumlaut;
 }
 );
