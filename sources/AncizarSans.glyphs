@@ -3,7 +3,7 @@
 .formatVersion = 3;
 DisplayStrings = (
 "∑",
-"æ"
+"ę"
 );
 axes = (
 {
@@ -20819,7 +20819,7 @@ unicode = 275;
 color = 4;
 glyphname = eogonek;
 kernLeft = KO_e;
-lastChange = "2023-09-08 16:00:25 +0000";
+lastChange = "2025-04-16 13:48:11 +0000";
 layers = (
 {
 layerId = m001;
@@ -20830,7 +20830,7 @@ ref = e;
 },
 {
 alignment = -1;
-pos = (113,7);
+pos = (102,7);
 ref = ogonek;
 }
 );
