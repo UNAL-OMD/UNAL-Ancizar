@@ -1,6 +1,9 @@
 {
 .appVersion = "3343";
 .formatVersion = 3;
+DisplayStrings = (
+"mmʄmm"
+);
 axes = (
 {
 name = Weight;
@@ -29834,12 +29837,13 @@ unicode = 607;
 {
 color = 3;
 glyphname = jdotlessstrokehook;
-lastChange = "2024-02-13 20:22:54 +0000";
+lastChange = "2025-04-16 13:58:28 +0000";
 layers = (
 {
 layerId = m001;
 shapes = (
 {
+pos = (40,0);
 ref = esh;
 },
 {
