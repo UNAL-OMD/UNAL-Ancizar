@@ -1,9 +1,6 @@
 {
 .appVersion = "3343";
 .formatVersion = 3;
-DisplayStrings = (
-"ₔ"
-);
 axes = (
 {
 name = Weight;
@@ -105713,16 +105710,17 @@ unicode = 58;
 color = 4;
 glyphname = semicolon;
 kernLeft = KO_semicolon;
-lastChange = "2024-02-12 15:03:04 +0000";
+lastChange = "2025-04-16 13:57:23 +0000";
 layers = (
 {
 layerId = m001;
 shapes = (
 {
+pos = (50,0);
 ref = comma;
 },
 {
-pos = (213,0);
+pos = (70,276);
 ref = period;
 }
 );
@@ -105742,7 +105740,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 446;
+width = 316;
 },
 {
 layerId = "5B801A11-FB24-4494-9FC9-AC06A39D30E5";
