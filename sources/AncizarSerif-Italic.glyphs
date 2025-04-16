@@ -22200,7 +22200,7 @@ unicode = 275;
 color = 4;
 glyphname = eogonek;
 kernRight = KO_e;
-lastChange = "2024-02-12 15:03:03 +0000";
+lastChange = "2025-04-16 13:57:47 +0000";
 layers = (
 {
 layerId = m001;
@@ -22211,7 +22211,7 @@ ref = e;
 },
 {
 alignment = -1;
-pos = (-25,14);
+pos = (-30,14);
 ref = ogonek;
 }
 );
