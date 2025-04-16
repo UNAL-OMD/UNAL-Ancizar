@@ -2,7 +2,7 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-"Ỳỳ"
+"ﬄ"
 );
 axes = (
 {
@@ -47579,7 +47579,7 @@ color = 4;
 glyphname = f_f_l;
 kernLeft = KO_f;
 kernRight = KO_l;
-lastChange = "2024-02-12 15:03:03 +0000";
+lastChange = "2025-04-16 14:01:42 +0000";
 layers = (
 {
 layerId = m001;
@@ -47730,7 +47730,7 @@ nodes = (
 (522,654,cs),
 (539,654,o),
 (567,651,o),
-(593,645,c),
+(584,645,c),
 (582,622,l),
 (547,87,ls),
 (543,25,o),
@@ -47923,7 +47923,6 @@ nodes = (
 );
 }
 );
-visible = 1;
 width = 743;
 }
 );
