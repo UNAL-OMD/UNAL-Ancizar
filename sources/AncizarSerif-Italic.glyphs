@@ -2,7 +2,7 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-"ỳ"
+"Ỳỳ"
 );
 axes = (
 {
@@ -13250,7 +13250,7 @@ unicode = 376;
 {
 color = 4;
 glyphname = Ygrave;
-lastChange = "2024-02-12 15:03:03 +0000";
+lastChange = "2025-04-16 14:01:11 +0000";
 layers = (
 {
 layerId = m001;
@@ -13261,7 +13261,7 @@ ref = Y;
 },
 {
 alignment = -1;
-pos = (82,0);
+pos = (-8,0);
 ref = grave.case;
 }
 );
@@ -13292,7 +13292,7 @@ ref = Y;
 },
 {
 alignment = -1;
-pos = (26,0);
+pos = (-14,0);
 ref = grave.case;
 }
 );
