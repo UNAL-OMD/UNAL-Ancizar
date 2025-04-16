@@ -1,6 +1,9 @@
 {
 .appVersion = "3343";
 .formatVersion = 3;
+DisplayStrings = (
+"͋"
+);
 axes = (
 {
 name = Weight;
@@ -108156,7 +108159,7 @@ unicode = 842;
 {
 color = 5;
 glyphname = homotheticabovecomb;
-lastChange = "2024-06-07 14:52:37 +0000";
+lastChange = "2025-04-16 13:49:57 +0000";
 layers = (
 {
 anchors = (
@@ -108172,7 +108175,7 @@ pos = (232,450);
 layerId = m001;
 shapes = (
 {
-pos = (-22,116);
+pos = (-36,116);
 ref = tilde;
 scale = (1,0.7968);
 },
@@ -108243,7 +108246,7 @@ pos = (228,450);
 layerId = "44B34E6E-EF7D-473C-A718-23DCC9FE612C";
 shapes = (
 {
-pos = (-16,4);
+pos = (12,18);
 ref = tilde;
 },
 {
