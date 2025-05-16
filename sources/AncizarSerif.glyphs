@@ -151,6 +151,19 @@ size = 0;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "meta Table";
+value = (
+{
+data = Latn;
+tag = dlng;
+},
+{
+data = Latn;
+tag = slng;
+}
+);
 }
 );
 date = "2023-08-22 15:26:54 +0000";
