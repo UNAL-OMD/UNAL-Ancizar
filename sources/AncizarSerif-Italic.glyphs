@@ -151,10 +151,23 @@ size = 0;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "meta Table";
+value = (
+{
+data = Latn;
+tag = dlng;
+},
+{
+data = Latn;
+tag = slng;
+}
+);
 }
 );
 date = "2023-08-22 15:26:54 +0000";
-familyName = "Ancizar Serif";
+familyName = "UNAL Ancizar Serif";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
@@ -139313,7 +139326,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2014 The Ancizar Serif Project Authors (https://github.com/UNAL-OMD/UNAL-Ancizar)";
+value = "Copyright 2014 The UNAL Ancizar Serif Project Authors (https://github.com/UNAL-OMD/UNAL-Ancizar)";
 }
 );
 },
@@ -141723,5 +141736,5 @@ m001 = {
 "com.hugojourdan.ColorFlow-selectedLayer-data" = "<null>";
 };
 versionMajor = 8;
-versionMinor = 100;
+versionMinor = 200;
 }
